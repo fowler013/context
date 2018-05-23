@@ -1,0 +1,25 @@
+*{
+    background-color: goldenrod;
+}
+h2{
+   text-align: center; 
+}
+
+h3{
+   display: inline-block;
+   width: 200px;
+   height: 30px;
+   border: 1px  solid navy;
+   border-radius: 7px;
+   margin: 5px;
+   line-height: 30px;
+   text-align: center;
+    background-color: gray;
+    cursor: pointer;
+}
+
+#div{
+    width: 900px;
+    margin: 40px auto;
+    text-align: center;
+}
